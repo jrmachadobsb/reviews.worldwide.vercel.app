@@ -1,9 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/derila-ergo-review/:path*",
-      "destination": "/404",
-      "permanent": false
+      "source": "/Derila-Ergo-Review/:path*",
+      "destination": "/Derila-Ergo-Review/:path*"
     }
   ]
 }
