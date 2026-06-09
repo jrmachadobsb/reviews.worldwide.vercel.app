@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/Derila-Ergo-Review/:path*",
-      "destination": "/Derila-Ergo-Review/:path*"
-    }
-  ]
-}

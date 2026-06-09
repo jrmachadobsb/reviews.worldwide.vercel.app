@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/derila-ergo-review/:path*",
-      "destination": "/404",
-      "permanent": false
-    }
-  ]
-}
